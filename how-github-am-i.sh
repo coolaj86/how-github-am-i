@@ -35,6 +35,7 @@ main() { (
     for my_repo in ${my_repos}; do
         printf "%s:\n" "${my_repo}"
         printf "http://www.github.com/%s/commits?author=%s\n" "${my_repo}" "${my_user}"
+        printf "\n"
     done
 ); }
 

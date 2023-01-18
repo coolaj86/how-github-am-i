@@ -52,8 +52,10 @@ Example output:
 ```text
 caddyserver/caddy:
 http://www.github.com/caddyserver/caddy/commits?author=coolaj86
+
 watchexec/watchexec:
 http://www.github.com/watchexec/watchexec/commits?author=coolaj86
+
 webinstall/webi-installers:
 http://www.github.com/webinstall/webi-installers/commits?author=coolaj86
 ```
